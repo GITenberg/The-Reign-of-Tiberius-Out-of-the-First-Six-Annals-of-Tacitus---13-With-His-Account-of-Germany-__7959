@@ -1,0 +1,48 @@
+_repo: The-Reign-of-Tiberius-Out-of-the-First-Six-Annals-of-Tacitus---13-With-His-Account-of-Germany-__7959
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gordon, Thomas
+    deathdate: 1750
+    gutenberg_agent_id: '2592'
+    url: http://www.gutenberg.org/2009/agents/2592
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Gaius Cornelius
+    - Tacitus, Publius Cornelius
+    - Tacitus, Caius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+  editor:
+    agent_name: Galton, Arthur
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '2593'
+    url: http://www.gutenberg.org/2009/agents/2593
+description: ''
+gutenberg_bookshelf:
+- Germany
+- Classical Antiquity
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Germanic peoples -- Early works to 1800'
+- !lcsh 'Rome -- History -- Tiberius, 14-37'
+- !lcsh 'Agricola, Gnaeus Julius, 40-93'
+- !lcsh 'Statesmen -- Rome -- Biography -- Early works to 1800'
+- GITenberg
+title: "The Reign of Tiberius, Out of the First Six Annals of Tacitus;\r\nWith His\
+  \ Account of Germany, and Life of Agricola"
+url: http://www.gutenberg.org/ebooks/7959
