@@ -1,11 +1,14 @@
 _repo: The-Reign-of-Tiberius-Out-of-the-First-Six-Annals-of-Tacitus---13-With-His-Account-of-Germany-__7959
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gordon, Thomas
     deathdate: 1750
     gutenberg_agent_id: '2592'
     url: http://www.gutenberg.org/2009/agents/2592
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tacitus, Cornelius
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '2593'
     url: http://www.gutenberg.org/2009/agents/2593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7959#The-Reign-of-Tiberius-Out-of-the-First-Six-Annals-of-Tacitus---13-With-His-Account-of-Germany-_
 gutenberg_bookshelf:
 - Germany
 - Classical Antiquity
